@@ -35,4 +35,16 @@ définitive du site ou de l'application web à partir des besoins du client.
 d'une page internet ou d'une application web qu'un utilisateur peut voir
 et avec lesquelles il peut interagir directement
 
-* **Back-end** :
+* **Back-end** : Le back-end est un terme désignant un étage de sortie d'un
+ logiciel devant produire un résultat par exemple la représentation et
+ le traitement de données en arrière plan dans une architecture MVC.
+
+* **Client** : Logiciel qui envoie des demandes à un serveur. 
+
+* **Serveur** : Un serveur web est ce qui permet à un navigateur web
+d'afficher un site internet .
+
+* **Base de données** : La base de données est un dispositif permettant 
+la collecte , la mise en forme , le stockage et l'utilisation 
+d'informations. Il contient aussi un système de gestion qui manipule 
+la base de données et dirige l'accès à son contenu.
